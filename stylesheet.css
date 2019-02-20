@@ -1,3 +1,55 @@
 .parallax img{
     width: 100%;
 }
+.parallax img{
+    width: 100%;
+}
+.brand-logo i{
+    margin-left: 15px;
+}
+.parallax-container h1{
+    text-align: center;
+    margin-top: 200px;
+    
+
+}
+.parallax-container h5{
+    text-align: center;
+}
+#projects h2{
+    text-align: center;
+    font-family: papyrus;
+}
+.row h2{
+    text-align: center;
+}
+input #button{
+    text-align: center;
+}
+#contacts{
+
+}
+#about{
+    padding-left: 350px;
+    background-image: url(https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+.header{
+    color: white;
+}
+.card-image img{
+    margin: 5px;
+}
+#button{
+    margin-left: 580px;
+    margin-bottom: 10px;
+}
+#about-section img{
+    float: left;
+    margin: 20px;
+}
+.page-footer{
+    clear: both;
+}
+#about-section p{
+    padding-top: 35px;
+}
